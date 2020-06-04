@@ -1,6 +1,6 @@
 # Convolutional Neural Networks
 
-Fourth course in the specialization. No assignments in this course though.
+Fourth course in the specialization. A lot of image processing assignments in this course.
 
 - Basic Convolutional model
 - Keras Tutorial - Smile detector
